@@ -81,7 +81,7 @@
     </div>
 
     <div class="footer-login">
-        Blender Perú l Todos los derechos reservados 2023
+        Tunqui Agencia Creativa EIRL | Todos los derechos reservados 2023
     </div>
 </div>
 <script>
