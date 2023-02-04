@@ -72,9 +72,9 @@
                 </div>
             </div>
             <div class="col-md-8">
-
-                {{ slides }}
-
+                <div class="cube-slide">
+                    {{ slides }}
+                </div>
             </div>
         </div>
 

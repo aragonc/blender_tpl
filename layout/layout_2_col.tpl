@@ -27,6 +27,10 @@
                     </article>
                 {% endif %}
 
+                {% if slides %}
+                    {{ slides }}
+                {% endif %}
+
                 {% if home_include %}
                 <article id="home-include">
                     {{ home_include }}
