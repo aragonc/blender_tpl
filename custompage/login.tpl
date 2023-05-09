@@ -15,11 +15,7 @@
                 </div>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
-                <ul class="nav navbar-nav">
-                    <li><a href="#">Consulta tu certificado</a></li>
-                    <li><a href="#">Ayuda y Soporte</a></li>
-                    <li><a href="#">Contactenos</a></li>
-                </ul>
+
             </div><!--/.nav-collapse -->
         </div>
     </nav>
